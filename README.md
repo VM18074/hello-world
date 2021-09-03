@@ -1,5 +1,4 @@
 # hello-world
-Just another repository
 
 
 Soy estudiante de ingenieria en sistemas informaticos
